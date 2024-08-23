@@ -1,0 +1,19 @@
+/* Additional custom styles if needed */
+.results p {
+    margin: 10px 0;
+}
+
+.card {
+    max-width: 400px;
+    margin: auto;
+}
+
+body {
+    background-color: #121212; /* Ensures the body background is dark */
+}
+
+.custom-dark-card {
+    background-color: #0d0d0d71; /* Very dark, almost black */
+    border: none; /* Remove any border if present */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5); /* Optional: Add a subtle shadow */
+}
